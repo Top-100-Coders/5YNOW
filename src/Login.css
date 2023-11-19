@@ -1,0 +1,72 @@
+.login-back {
+ background-image: url('./wave.svg');
+ height: 100vh;
+ width: 100vw;
+ background-color: whitesmoke;
+ background-position: center;
+ background-repeat: no-repeat;
+ background-size: cover;
+ display: flex;
+ justify-content: center;
+}
+
+.login-box {
+ width: 30vw;
+ height: 80vh;
+ border-radius: 20px;
+ display: flex;
+ justify-content: center;
+ flex-direction: column;
+ align-items: center;
+ position: absolute;
+ top: 10vh;
+ background-color: white;
+}
+
+.inp-e {
+ width: 90%;
+ height: 20px;
+ border-radius: 20px;
+ padding: 10px
+}
+
+.inp-p {
+ width: 90%;
+ height: 20px;
+ border-radius: 20px;
+ padding: 10px
+}
+
+.login-h {
+ font-size: 60px;
+ font-family: Dancing Script;
+ position: absolute;
+ top: 0;
+ color: rebeccapurple
+}
+
+.inp-b {
+ width:10vw;
+ height:30px;
+ border: 0;
+ border-radius: 20px;
+ background-color: rgb(3, 51, 193);
+ color:white;
+ position: relative;
+ top:50px
+}
+
+@media only screen and (max-width:907) {
+ .login-box {
+  min-width: 30vw;
+ height: 80vh;
+ border-radius: 20px;
+ display: flex;
+ justify-content: center;
+ flex-direction: column;
+ align-items: center;
+ position: absolute;
+ top: 10vh;
+ background-color: white;
+ }
+}

@@ -1,0 +1,631 @@
+[
+{
+	"id":"1",
+	"name":"Plain Dosa",
+	"calorie":"168",
+	"protein":"3.9",
+	"carb":"29",
+	"fibre":"0.9",
+	"fat":"3.7", 
+	"img":"https://www.cookwithkushi.com/wp-content/uploads/2016/01/IMG_6328_-1.jpg"
+},
+{
+	"id":"2",
+	"name":"Veg Pizza(1 slice)",
+	"calorie":"200",
+	"protein":"9",
+	"carb":"29",
+	"fibre":"1",
+	"fat":"5", 
+	"img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSErxfqqeo-EBMv8dQ_jtVzQ8im2HwtSavgAg&usqp=CAU"
+},
+{
+	"id":"3",
+	"name":"Chicken Pizza(1 slice)",
+	"calorie":"306",
+	"protein":"16.5",
+	"carb":"35.7",
+	"fibre":"2.5",
+	"fat":"10.8", 
+	"img":"https://api.pizzahut.io/v1/content/en-in/in-1/images/pizza/chicken-pepperoni.6952ef03215b72477abff3574b4b881e.1.jpg"
+},
+{
+	"id":"4",
+	"name":"Kerala Poratta",
+	"calorie":"296",
+	"protein":"5",
+	"carb":"33.6",
+	"fibre":"2.5",
+	"fat":"15.5", 
+	"img":"https://farm9.staticflickr.com/8586/16023214373_90552b64f6_o.jpg"
+},
+{
+	"id":"5",
+	"name":"Beef Fried Rice(198)",
+	"calorie":"252",
+	"protein":"16",
+	"carb":"25",
+	"fibre":"0.9",
+	"fat":"12", 
+	"img":"https://www.deliciousmeetshealthy.com/wp-content/uploads/2021/08/Beef-Fried-Rice-18-scaled.jpg"
+},
+{
+	"id":"6",
+	"name":"Orange Juice",
+	"calorie":"0.45",
+	"protein":"0.007",
+	"carb":"0.0200",
+	"fibre":"0.002",
+	"fat":"0.002", 
+	"img":"https://media.istockphoto.com/photos/glass-of-orange-juice-and-fresh-oranges-picture-id152971676?k=20&m=152971676&s=612x612&w=0&h=TtC4yKNcRX3_QIboXJL_RER4QdNv7tKh2vNkkkR7F2U="
+},
+{
+	"id":"7",
+	"name":"Idli",
+	"calorie":"58",
+	"protein":"1.6",
+	"carb":"12",
+	"fibre":"0.5",
+	"fat":"0.4", 
+	"img":"https://media.istockphoto.com/photos/idli-with-coconut-chutney-and-sambhar-picture-id638506124?k=20&m=638506124&s=612x612&w=0&h=ATkg90j1QhOW2gEztmU8i0jqnGIpQyPXxfgRzOBXdXg="
+},
+{
+	"id":"8",
+	"name":"Vanilla Sponge Cake",
+	"calorie":"2.57",
+	"protein":"0.06",
+	"carb":"0.59",
+	"fibre":"0.02",
+	"fat":"0.003", 
+	"img":"data:image/jpeg;base64,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"
+},
+{
+	"id":"10",
+	"name":"Uzhunnu Vada",
+	"calorie":"135",
+	"protein":"4.4",
+	"carb":"11",
+	"fibre":"2",
+	"fat":"8.4", 
+	"img":"https://geekrobocook.com/wp-content/uploads/2021/06/Medu-vada-recipe-in-Robocook-fryo.jpg"
+},
+{
+	"id":"11",
+	"name":"Aerated Drinks",
+	"calorie":"0.41",
+	"protein":"0",
+	"carb":"0.11",
+	"fibre":"0",
+	"fat":"0", 
+	"img":"https://us.123rf.com/450wm/monticello/monticello1804/monticello180400265/103002442-poznan-poland-apr-6-2018-bottles-of-global-soft-drink-brands-including-products-of-coca-cola-company.jpg?ver=6"
+},
+{
+	"id":"12",
+	"name":"Shawarma",
+	"calorie":"452",
+	"protein":"39",
+	"carb":"17",
+	"fibre":"0",
+	"fat":"6.3", 
+	"img":"https://i.ytimg.com/vi/aWWF16IkI6Q/maxresdefault.jpg"
+},
+{
+	"id":"13",
+	"name":"Banana",
+	"calorie":"121",
+	"protein":"1.5",
+	"carb":"31",
+	"fibre":"3.5",
+	"fat":"0.4", 
+	"img":"https://images.immediate.co.uk/production/volatile/sites/30/2017/01/Bananas-218094b-scaled.jpg"
+},
+{
+	"id":"14",
+	"name":"Tea",
+	"calorie":"0.001",
+	"protein":"0.01",
+	"carb":"0.02",
+	"fibre":"0",
+	"fat":"0", 
+	"img":"https://res.cloudinary.com/swiggy/image/upload/f_auto,q_auto,fl_lossy/vlhnmmqguwalcngcvpgk"
+},
+{
+	"id " : "15" ,
+	"name" :"Mysore Masala Dosa" , 
+   "calorie " : "190" , 
+   "protein " : " 5" , 
+   "carb " : " 26" , 
+   "fibre " : "3" , 
+	"fat":"33",
+   "img":"https://static.toiimg.com/thumb/54289752.cms?imgsize=495844&width=800&height=800"
+},
+{"id":"16",
+"name":"Appam",
+"calorie":"49",
+"protein":"1.5",
+"carb":"17",
+"fibre":"0.6",
+"fat":"2.4",
+"img":"https://thumbs.dreamstime.com/b/delicious-spicy-homemade-chickpeas-curry-appam-indian-cuisine-chickpeas-curry-channa-masala-chickpeas-curry-108555994.jpg"
+},
+{
+"id":"17",
+"name": "Idiyappam",
+"calorie":"69",
+"protein":"1",
+"carb":"10.9",
+"fibre":"1",
+"fat":"2.3",
+"img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZ70VXo1zimpsVPj2af1FkvaAti4zpVvyv2LIftzYROQ&s"
+},
+{
+"id":"18",
+"name":"Rice Puttu",
+"calorie":"305",
+"protein":"5.5",
+"carb":"49.8",
+"fibre":"5.5",
+"fat":"9.4",
+"img":"https://vaya.in/recipes/wp-content/uploads/2019/01/Rice-Puttu.jpg"
+},
+{
+"id":"19 ",
+"name": "bread",
+"calorie":"82",
+"protein":" 4",
+"carb":"13.8",
+"fibre":"1.9",
+"fat":"1.1",
+"img":"https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F43%2F2022%2F06%2F09%2F6788-Amish-White-Bread-ddmfs-1x1.5108.jpg"
+},
+{
+"id":"20",
+"name":"Sambar",
+"calorie":"139",
+"protein":"5.2",
+"carb":"18.4",
+"fibre":"2.8",
+"fat":"5.4",
+"img":"https://nishkitchen.com/wp-content/uploads/2014/08/Sambar-1B.jpg"
+},
+{
+"id":"21",
+"name":"Plain Rice",
+"calorie":"205",
+"protein":"4.3",
+"carb":"45",
+"fibre":"0.6",
+"fat":"0.4",
+"img":"https://indianfood.com.sg/wp-content/uploads/2021/01/Plain-Basmati-Rice--scaled.jpg"
+},
+{
+"id":"22",
+"name":"Veg Fried  Rice",
+"calorie":"129",
+"protein":"279",
+"carb":"30",
+"fibre":"2.1",
+"fat":"14",
+"img":"https://recipesofhome.com/wp-content/uploads/2020/06/veg-fried-rice-recipe.jpg"
+ },
+{
+"id":"23",
+"name": "Chicken Fried Rice",
+"calorie":"343",
+"protein":"14",
+"carb":"55",
+"fibre":"0.9",
+"fat":"7",
+"img":"https://www.simplyrecipes.com/thmb/t0PHmOn0M5y1qBdcHvbDWs182Kc=/1780x1335/smart/filters:no_upscale()/__opt__aboutcom__coeus__resources__content_migration__simply_recipes__uploads__2017__12__2017-12-Chicken-Fried-Rice-2-15ac7014b47b40a1a7c7e20a638f4295.jpg"
+
+},
+{
+"id":"24",
+"name":"Fish Fried Rice",
+"calorie":"273",
+"protein":"16",
+"carb":"25",
+"fibre":"0.9",
+"fat":"12",
+"img":"https://images.everyplate.com/f_auto,fl_lossy,q_auto/everyplate_s3/image/spicy-korean-fish-fried-rice-0c7214c3.jpg"
+},
+{
+"id":"25",
+"name":"Mutton Fried Rice",
+"calorie":"649",
+"protein":" 28.48",
+"carb":"50.30",
+"fibre":"2.3",
+"fat":"35.95",
+"img":"https://bucketbiryani.com/wp-content/uploads/2020/02/Mutton_fried-rice.jpg"
+},
+{
+"id":"26",
+"name":"Chicken Curry ",
+"calorie":"243",
+"protein":"28",
+"carb":"7.5",
+"fibre":"1.5g",
+"fat":"11",
+"img":"https://www.foodandwine.com/thmb/uuMjAJtWCRvd-CnPwVddd57r3IY=/1333x1333/smart/filters:no_upscale()/spicy-chicken-curry-FT-RECIPE0321-58f84fdf7b484e7f86894203eb7834e7.jpg"
+},
+{
+"id":"27",
+"name":"Mutton Curry",
+"calorie":"762",
+"protein":"48",
+"carb":"16",
+"fibre":"3.2",
+"fat":"56",
+"img":"https://geekrobocook.com/wp-content/uploads/2021/03/83.-Slow-cooked-indian-mutton-mughal-style.jpg"
+},
+{
+"id":"28",
+"name":"Mango Juice",
+"calorie" :"170",
+"protein":"0.4",
+"carb":"42",	
+"fibre":"0.8",
+"fat":"0.2",
+"img":"https://t3.ftcdn.net/jpg/02/01/26/34/360_F_201263421_UaRyo4EW493vkjh8aO0gUIyUQijy8H6S.jpg"
+},
+{
+
+"id":"29",
+"name":"Apple Juice",
+"calorie":"110",
+"protein":"0g ",
+"carb":"28",
+"fibre":"1",
+"fat":"0",
+"img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfDXzYpt3Scz81ZLpa0TKJ-hwsqAkXmiI6DMdQ7tM9_iaXIr4Q35khFRzCJFKAGLEtFIc&usqp=CAU"
+},
+{
+"id":"30",
+"name":"Guava Juice",
+"calorie":"158",
+"protein":"0.2",
+"carb":"41",
+"fibre":"0.2",
+"fat":"0.1",
+"img":"https://t4.ftcdn.net/jpg/01/43/12/89/360_F_143128927_XgXZgPd8DfnyuAi529fUzlvXCxBhDDra.jpg"
+},
+{
+"id":"31",
+"name":"Grape Juice",
+"calorie":"76",
+"protein":"1",
+"carb":"19",
+"fibre":"0",
+"fat":"0",
+"img":" https://cdn2.stylecraze.com/wp-content/uploads/2013/09/Why-Should-You-Choose-Grape-Juice-10-Proven-Benefits-and-Interesting-Facts.jpg"
+},
+{
+"id":"32",
+"name":"Watermelon Juice",
+"calorie":"80",
+"protein":" 0.5",
+"carb":"21",
+"fibre":" 0.3",
+"fat":"0.1",
+"img":" https://tastedrecipes.com/wp-content/uploads/2019/05/watermelon-juice.jpg"
+},
+{
+"id":"33",
+"name":"Strawberry Milk",
+"calorie":"234",
+"protein":"8",
+"carb":"33",
+"fibre":"0",
+"fat":"8.2",
+"img":"https://www.mygingergarlickitchen.com/wp-content/uploads/2021/04/strawberry-milk-1.jpg"
+},
+{
+"id":"34",
+"name": "Soda",
+"calorie":"19",
+"protein":" 0",
+"carb":"5.1",
+"fibre":"0g ",
+"fat":"0",
+"img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSshjz52ys8X2Lv8etIChgSswVey7tsexI9kHOmh9kRlvY-RlWjSyAlmh9yU0VI2I8YO0&usqp=CAU"
+},
+{
+"id":"35 ",
+"name":"Lemonade",
+"calorie" :"120",
+"protein":"0",
+"carb":"30",
+"fibre":"0",
+"fat":"0",
+"img":" https://i0.wp.com/recipesbycarina.com/wp-content/uploads/2016/07/Homemade-Lemonade.jpg?fit=1200%2C1600&ssl=1"
+},
+{
+"id":"36",
+"name":"Instant Noodles",
+"calorie":"272",
+"protein":"5.7",
+"carb":"41.7",
+"fibre":"1.4",
+"fat":"9.5",
+"img":"https://www.franchisetrade.in/wp-content/uploads/2019/04/maggi.jpg"
+},
+{
+"id":"37",
+"name":"Kerala Sadya",
+"calorie" :"1084",
+"protein":"24.3",
+"carb":"13",
+"fibre":"14.3",
+"fat":"49.5",
+"img":"https://t3.ftcdn.net/jpg/04/84/16/22/360_F_484162295_3xrpIzKdqhk7zd8EDTAHkJtNmMMje7Br.jpg"
+},
+{
+"id":"38",
+"name":"Upma",
+"calorie" :"111",
+"protein":"3.1",
+"carb":"20.6",
+"fibre":"1.5",
+"fat":"1.8",
+"img":"https://img.freepik.com/free-photo/upma-uppumavu-uppittu-is-indian-popular-breakfast-dish-most-common-south-maharashtra_466689-75336.jpg?w=2000"
+},
+{
+"id":"39",
+"name":"Poori",
+"calorie" :"134",
+"protein":"3.2",
+"carb":"18.5",
+"fibre":"2.9",
+"fat":"5.3",
+"img":"https://t4.ftcdn.net/jpg/01/15/65/19/360_F_115651965_lYL3HcRdknpnIDDtKhWzvsRamVDCCKun.jpg"
+},
+{
+"id":"40",
+"name":"Chicken Sandwich ",
+"calorie" :"370",
+"protein":"22.1",
+"carb":"39",
+"fibre":"2",
+"fat":"12.4",
+"img":"https://www.yummyoyummy.com/wp-content/uploads/2013/11/Spicy-chicken-sandwich.jpg"
+},
+{
+"id":"41",
+"name":"Coffee",
+"calorie" :"165",
+"protein":"4.4",
+"carb":"16.1",
+"fibre":"0",
+"fat":"8.7",
+"img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBMANsSQz9eOvU_MJ8SikpGY5TkPn8OrBmDg&usqp=CAU"
+},
+{
+"id":"42",
+"name":"Dal Vada",
+"calorie" :"100",
+"protein":"3",
+"carb":"9.3",
+"fibre":"2.3",
+"fat":"5..7",
+"img":"https://cdn.cdnparenting.com/articles/2019/01/08170554/masala-vada-dal-vada-recipe_266832881.jpg"
+},
+{
+"id":"43",
+"name":"Payaru Thoran",
+"calorie" :"150",
+"protein":"7.19",
+"carb":"18.09",
+"fibre":"5.85",
+"fat":"5.51",
+"img":"https://www.cookingcurries.com/wp-content/uploads/2017/08/Achinga-Payar-Thoran-Yard-Long-Beans-Saute-with-Coconut-2-of-4_thumb.jpg"
+},
+{
+"id":"44",
+"name":"Cold Coffee",
+"calorie" :"170",
+"protein":"6.6",
+"carb":"17.7",
+"fibre":"0",
+"fat":"8.3",
+"img":"https://www.forkinthekitchen.com/wp-content/uploads/2022/07/220629.iced_.latte_.vanilla-8882.jpg"
+},
+{
+"id":"45",
+"name":"Beef Fry",
+"calorie" :"107",
+"protein":"11.3",
+"carb":"4",
+"fibre":"1.2",
+"fat":"2.7",
+"img":"https://media-cdn.tripadvisor.com/media/photo-s/1c/ac/24/39/nadan-beef-fry.jpg"
+},
+{
+"id":"46",
+"name": "Fried Chicken",
+"calorie" :"563",
+"protein":"30.7",
+"carb":"9.8",
+"fibre":"0.4",
+"fat":"43.7",
+"img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxm-t0TbOwJya_3pls9UWyGRArhNJdL3QjBg&usqp=CAU"
+},
+{
+"id":"47",
+"name":"Sambar(1 serving)",
+"calorie" :"115",
+"protein":"5.6",
+"carb":"16.1",
+"fibre":"3.5",
+"fat":"3.1",
+"img":"https://mytastycurry.com/wp-content/uploads/2018/06/Sambar-recipe-500x375.jpg"
+},
+{
+"id":"48",
+"name":"Rasam",
+"calorie" :"36",
+"protein":"1.5",
+"carb":"5.8",
+"fibre":"1",
+"fat":"0.8",
+"img":"https://vanitascorner.com/wp-content/uploads/2018/06/Tomato-Pepper-Rasam.jpg"
+},
+{
+"id":"49",
+"name":"Apple",
+"calorie" :"88",
+"protein":"0.3",
+"carb":"20",
+"fibre":"4.8",
+"fat":"08",
+"img":"https://www.collinsdictionary.com/images/full/apple_158989157.jpg"
+},
+{
+"id":"50",
+"name":"Chutney",
+"calorie" :"0.5",
+"protein":"0.1",
+"carb":"0.001",
+"fibre":"0.1",
+"fat":"0",
+"img":"https://thumbs.dreamstime.com/b/coconut-chutney-indian-food-homemade-76617879.jpg"
+},
+{"id":"52",
+"name":"Kadala Curry", 
+"calorie" :"187", 
+"protein":"4.8", 
+"carb":"18.9", 
+"fibre":"9.1",
+"fat":"10.8", 
+"img":"https://cdn.shopify.com/s/files/1/0589/5271/2369/products/kadala-curry.jpg?v=1660899145"
+},
+{
+"id":"53",
+"name":"Egg Curry", 
+"calorie" :"159", 
+"protein":"7.1", 
+"carb":"4.6", 
+"fibre":"1.5",
+"fat":"12.3", 
+"img":"https://img.freepik.com/premium-photo/egg-roast-indian-egg-masala-curry-spicy-red-egg-roast-arranged-white-ceramic-bowl_527904-3900.jpg?w=2000."
+},
+{
+"id":"54",
+"name":"Green Peas Curry", 
+"calorie" :"105", 
+"protein":"3.4", 
+"carb":"11.2", 
+"fibre":"5.5",
+"fat":"4.3", 
+"img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQI2OtalWYCFJt2LsD61_BFIfL5gwfNohrlZDVU24vroib-VOVq27-SdJQRleVcEyyhDe0&usqp=CAU"
+},
+{
+"id":"55",
+"name":"Vegetable Kurma", 
+"calorie" :"116", 
+"protein":"2.9", 
+"carb":"11.4", 
+"fibre":"2.9",
+"fat":"6.7", 
+"img":"https://i2.wp.com/curryandvanilla.com/wp-content/uploads/2019/06/Tamil-Style-Vegatable-Kurma-4b.jpg?w=720&ssl=1"
+},
+{
+	"id":"56",
+	"name":"Cream biscuit",
+        "calorie":"69",
+        "carb":"9",
+        "protein":"0.6",
+        "fat":"3.5",
+		"fibre":"0.3",
+		"img":"https://thumbs.dreamstime.com/b/pile-sandwich-cookies-chocolate-creme-filing-food-photos-31378847.jpg"
+},
+{
+	"id":"57",
+	"name":"Egg Puffs",
+        "calorie":"340",
+        "carb":"25.1",
+        "protein":"7.7",
+        "fat":"23.3",
+		"fibre":"1.4",
+		"img":"http://www.sanjeevkapoor.com/UploadFiles/RecipeImages/Egg-Puff---SK-Khazana.jpg"
+},{
+	"id":"58",
+	"name":"Veg Puffs",
+        "calorie":"249",
+        "carb":"22.2",
+        "protein":"3.9",
+        "fat":"16.2",
+		"fibre":"2.1",
+		"img":"https://1.bp.blogspot.com/-7lljDdaRwgc/WoH_StGaYLI/AAAAAAAAJ_U/e5XxjODI7L436_eO0kC_Hyk1cAwH5MG9ACEwYBhgL/s1600/Veg%2BPuffs.JPG"
+},{
+	"id":"59",
+	"name":"Chicken Puffs",
+        "calorie":"472",
+        "carb":"43.7",
+        "protein":"13.3",
+        "fat":"27.6",
+		"fibre":"3.1",
+		"img":"https://www.spiceindiaonline.com/wp-content/uploads/2006/11/Indian-Chicken-Puffs.jpg"
+},
+{
+	"id":"60",
+	"name":"Muruku",
+        "calorie":"57",
+        "carb":"5.7",
+        "protein":"1.3",
+        "fat":"3.1",
+		"fibre":"0.6",
+		"img":"https://static.toiimg.com/thumb/52430256.cms?width=1200&height=900"
+},
+{
+	"id":"61",
+	"name":"Mixture(50g)",
+        "calorie":"254",
+        "carb":"19.7",
+        "protein":"6.3",
+        "fat":"16.7",
+		"fibre":"2.3",
+		"img":"https://i0.wp.com/nativespecial.com/ae/wp-content/uploads/sites/7/2020/10/NATTU-MIXTURE.jpg?fit=800%2C800&ssl=1"
+},
+{
+	"id":"62",
+	"name":"Halwa(50g)",
+        "calorie":"270",
+        "carb":"24.3",
+        "protein":"7.1",
+        "fat":"16",
+		"fibre":"0",
+		"img":"https://www.cookwithkushi.com/wp-content/uploads/2021/10/IMG_2462d.jpg"
+},
+{
+	"id":"63",
+	"name":"Laddoo",
+        "calorie":"155",
+        "carb":"26",
+        "protein":"2.6",
+        "fat":"4.8",
+		"fibre":"1.2",
+		"img":"https://www.thespruceeats.com/thmb/OSF95XCCtERDpw3er-S0NXEhVLQ=/1940x1546/filters:fill(auto,1)/besanladdoo-56a5106d3df78cf772862ba5.jpg"
+},
+{
+	"id":"64",
+	"name":"Jalabi",
+        "calorie":"134",
+        "carb":"15.3",
+        "protein":"1.1",
+        "fat":"7.4",
+		"fibre":"0.3",
+		"img":"https://static.toiimg.com/thumb/53099699.cms?width=1200&height=900"
+},
+{
+	"id":"65",
+	"name":"Chappathi",
+ "calorie":"85",
+ "carb":"17.4",
+ "protein":"3",
+ "fat":"0.4",
+		"fibre":"2.7",
+		"img":"https://thumbs.dreamstime.com/b/tasty-chapati-made-wheat-flour-healthy-indian-indian-cuisine-58050261.jpg"
+}
+
+]

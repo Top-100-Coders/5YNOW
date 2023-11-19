@@ -1,0 +1,69 @@
+.bottlecol {
+ width: 100vw;
+ height: 83vh;
+ position: absolute;
+ background-image: url('https://img.freepik.com/premium-photo/cartoon-illustration-beach-full-plastic-bottles-trash-generative-ai_900396-29648.jpg?w=1060');
+ background-repeat: no-repeat;
+ background-size: 100vw 82vh;
+ top: 17.1vh;
+}
+
+.bottle-img {
+ position: absolute;
+ left:470px;
+ top:30vh;
+ width:200px;
+ transform: rotate(25deg);
+}
+
+.btn-plus {
+ position: absolute;
+ top:55vh;
+ left:30vw;
+ width:80px;
+ height:80px;
+ border-radius:50%;
+ font-size:80px;
+ display: flex;
+ justify-content: center;
+ align-items: center;
+}
+
+.btn-minus {
+ position: absolute;
+ top:55vh;
+ left:57vw;
+ width:80px;
+ height:80px;
+ border-radius:50%;
+ font-size:80px;
+ display: flex;
+ justify-content: center;
+ align-items: center;
+}
+
+.num {
+ position: absolute;
+ font-size:70px;
+ top:280px;
+ left:46vw
+}
+
+.btn-sub {
+ position: absolute;
+ width:190px;
+ height:50px;
+ font-size: 30px;
+ left:70vw;
+ top:60vh;
+ border-radius:20px;
+ border:0;
+ background-color:chocolate;
+ color:white
+}
+
+.pnts {
+ position:absolute;
+ font-size: 40px;
+ right:15vw
+}
