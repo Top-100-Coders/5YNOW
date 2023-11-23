@@ -25,11 +25,11 @@ Tasks cover a range of sustainable actions, such as energy reduction, waste mini
 - Food Impact Tracking: With Open AI Vision API it can seamlessly integrate with a food detection app to track the environmental impact of your meals.
 Receive insights into your diet's carbon footprint and recommendations for sustainable food choices.
 
-- Plastic Collector - Earn points for every piece of plastic responsibly disposed of, and track your progress on a global leaderboard. In collaboration with the government or the corporate companies plastic collection points can be set up ( machine to collect plastic bottles by scaning the QR code from the machine the user would be able to claim points for each bottle put for recycling)
+- Plastic Collector - Earn points for every piece of plastic responsibly disposed of, and track your progress on a global leaderboard. In collaboration with the government or the corporate companies plastic collection points can be set up ( machine to collect plastic bottles by scaning the QR code from the machine the user would be able to claim points for each bottle put for recycling). The machine can be installed in schools( as part of school CSR) where students could scan their id card and earn points. The corporate companies shall also install the machine and the employees can scan their id card to earn points. For the public, by collaborating with NGOs, and government authorities, the machine shall be installed in various places like railway stations, bus stations, government offices where the QR code scanner can be used to earn points.
 
 - Point System: Earn points for completed tasks, with varying values based on the environmental impact. Track and visualize your progress through a user-friendly dashboard.
 
-- Role-Based Engagement:Choose an environmental role that resonates with you, like Waste Warrior, Energy Champion, or Green Guru. Unlock role-specific challenges and tasks to deepen your expertise in specific sustainability areas.
+- Role-Based Engagement:Based on the points earned different roles/badges like Waste Warrior, Energy Champion, or Green Guru will be awarded to the user. Unlock role-specific challenges and tasks to deepen your expertise in specific sustainability areas.
 
 - Community Interaction: Join a dynamic community of eco-conscious individuals.
 Engage in forums, discussions, and live events to share insights, challenges, and success stories.
