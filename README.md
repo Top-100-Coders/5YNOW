@@ -4,7 +4,7 @@
 
 # Description 📄📄
 
-Welcome to 5YNOW, your passport to a sustainable tomorrow! 🌍💚 Unleash your power to make a positive impact on the planet through our innovative platform. Receive personalized eco-tasks, track your meals with our cutting-edge food detection app, and join a vibrant community of changemakers.
+Welcome to 5YNOW, your passport to a sustainable tomorrow! 🌍💚 Impacting 5 million lifes by 2028. Unleash your power to make a positive impact on the planet through our innovative platform. Receive personalized eco-tasks, track your meals with our cutting-edge food detection app, and join a vibrant community of changemakers.
 
 Earn points for every sustainable action you take, from reducing waste to promoting biodiversity. Choose your environmental role – be a   Green Warrior, Energy Champion, or Green Guru – and unlock new challenges that align with your passion and expertise.
 
