@@ -61,6 +61,8 @@ Implement regular updates and improvements based on user feedback to enhance the
 - Plastic Collection point calculator
 - Food detection
 - Nutrition calculation on the food detected (under construction)
+- Game related to sustainability
+- Health Literacy page witha simple game
 
 # Built using 🧑🏻‍💻🧑🏻‍💻💻💻
 - React JS ⚛️
