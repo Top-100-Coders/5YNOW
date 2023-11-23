@@ -1,70 +1,71 @@
-# Getting Started with Create React App
+# 5YNOW - Cultivating a Sustainable Tomorrow 🚀🚀
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+#### As I started this project after working on the InterviewGenie project and have started 5YNOW project on the last day of Huddle Global 2023 evening and deadline was on the next day midnight, some of the features of the application is under development and work in progress. 
 
-## Available Scripts
+# Description 📄📄
 
-In the project directory, you can run:
+Welcome to 5YNOW, your passport to a sustainable tomorrow! 🌍💚 Unleash your power to make a positive impact on the planet through our innovative platform. Receive personalized eco-tasks, track your meals with our cutting-edge food detection app, and join a vibrant community of changemakers.
 
-### `npm start`
+Earn points for every sustainable action you take, from reducing waste to promoting biodiversity. Choose your environmental role – be a   Green Warrior, Energy Champion, or Green Guru – and unlock new challenges that align with your passion and expertise.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+Elevate your wellness journey with our revolutionary 'Eat Healthy' food detection feature. Say goodbye to guesswork and hello to mindful nourishment. With cutting-edge image recognition technology, our app seamlessly identifies and categorizes the food on your plate, providing you with real-time insights into your nutritional choices.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+Connect with like-minded individuals, share your journey, and participate in friendly competitions. 5YNOW isn't just a platform; it's a movement to create a greener, cleaner future. Start your journey today and be a part of the solution! 🌱🌟 #5YNOW #SustainableLiving
 
-### `npm test`
+# Features 📱📱
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+#### The final product would inculde the below features.
 
-### `npm run build`
+- Login & Signup: Every user can create their own account and login through the app.
+  
+- Tailored Eco-Tasks:
+Receive personalized tasks aligned with your interests, location, and expertise.
+Tasks cover a range of sustainable actions, such as energy reduction, waste minimization, and support for local eco-friendly initiatives.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+- Food Impact Tracking: With Open AI Vision API it can seamlessly integrate with a food detection app to track the environmental impact of your meals.
+Receive insights into your diet's carbon footprint and recommendations for sustainable food choices.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+- Plastic Collector - Earn points for every piece of plastic responsibly disposed of, and track your progress on a global leaderboard. In collaboration with the government or the corporate companies plastic collection points can be set up ( machine to collect plastic bottles by scaning the QR code from the machine the user would be able to claim points for each bottle put for recycling)
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+- Point System: Earn points for completed tasks, with varying values based on the environmental impact. Track and visualize your progress through a user-friendly dashboard.
 
-### `npm run eject`
+- Role-Based Engagement:Choose an environmental role that resonates with you, like Waste Warrior, Energy Champion, or Green Guru. Unlock role-specific challenges and tasks to deepen your expertise in specific sustainability areas.
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+- Community Interaction: Join a dynamic community of eco-conscious individuals.
+Engage in forums, discussions, and live events to share insights, challenges, and success stories.
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+- Educational Hub:
+Access a comprehensive library of articles, videos, and infographics to enhance your understanding of sustainable living.
+Stay informed about the environmental impact of various activities.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+- Gamification Features: Earn badges, level up, and complete challenges to make your sustainability journey enjoyable and motivating.
+Participate in periodic competitions to foster friendly competition among users.
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+- Feedback and Reports: Receive personalized feedback on completed tasks, highlighting the positive impact of your actions.
+Generate detailed reports to visualize and understand your sustainability progress.
 
-## Learn More
+- Social Media Integration: Seamlessly share achievements and challenges on social media.
+Encourage friends and followers to join the 5YNOW community and amplify the impact.
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+- Partnerships and Rewards: Collaborate with local businesses, environmental organizations, and governmental agencies.
+Unlock exclusive rewards, discounts, or recognition for reaching milestones or completing special challenges.
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+- Accessibility and Diversity: Prioritize accessibility features to ensure inclusivity for users with disabilities.
+Offer language support and consider cultural diversity in content and challenges.
 
-### Code Splitting
+- Continuous Improvement Loop: Allow users to provide feedback on tasks, challenges, and the overall platform.
+Implement regular updates and improvements based on user feedback to enhance the user experience continually.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+#### Within the limited time below are the features which are included:-
+- Login and Signup
+- Plastic Collection point calculator
+- Food detection
+- Nutrition calculation on the food detected (under construction)
 
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+# Built using 🧑🏻‍💻🧑🏻‍💻💻💻
+- React JS ⚛️
+- Express JS 
+- JSON
+- Firebase Firestore
+- Firebase Authentication
+- Open AI Vision API 🤖
